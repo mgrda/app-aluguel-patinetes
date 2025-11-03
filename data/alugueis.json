@@ -1,0 +1,42 @@
+[
+    {
+      "id": 101,
+      "patineteId": 4,
+      "inicio": "2025-01-15T14:05:00",
+      "fim": "2025-01-15T14:19:00",
+      "tempoMinutos": 14,
+      "distanciaKm": 2.1,
+      "valorTotal": 12.60,
+      "status": "finalizado"
+    },
+    {
+      "id": 102,
+      "patineteId": 1,
+      "inicio": "2025-01-16T09:40:00",
+      "fim": "2025-01-16T10:05:00",
+      "tempoMinutos": 25,
+      "distanciaKm": 4.3,
+      "valorTotal": 18.75,
+      "status": "finalizado"
+    },
+    {
+      "id": 103,
+      "patineteId": 3,
+      "inicio": "2025-01-17T18:22:00",
+      "fim": null,
+      "tempoMinutos": null,
+      "distanciaKm": null,
+      "valorTotal": null,
+      "status": "em_andamento"
+    },
+    {
+      "id": 104,
+      "patineteId": 2,
+      "inicio": "2025-01-18T11:10:00",
+      "fim": "2025-01-18T11:25:00",
+      "tempoMinutos": 15,
+      "distanciaKm": 2.4,
+      "valorTotal": 10.50,
+      "status": "finalizado"
+    }
+  ]
